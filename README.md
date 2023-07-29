@@ -25,7 +25,9 @@ remediation
 
 * Web Vulnerability scan
 * Port Vulnerability scan
+* Get OS Information
 * Previous scan store
+* PDF Report Generate
 
 
 ### Registration Page
